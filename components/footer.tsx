@@ -51,7 +51,7 @@ export function Footer() {
                   <span className="sr-only">LinkedIn</span>
                 </Button>
               </Link>
-              <Link href="https://github.com" target="_blank" rel="noreferrer">
+              <Link href="https://github.com/ApoorvaA5/esuoh" target="_blank" rel="noreferrer">
                 <Button variant="ghost" size="icon">
                   <Github className="h-5 w-5" />
                   <span className="sr-only">GitHub</span>
